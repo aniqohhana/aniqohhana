@@ -2,7 +2,7 @@
 
 I'm Aniqoh Hana Haura, you can call me Hana :)
 
-I'm a 4th grade student at Gunadarma Univeristy majoring in Information System. 
+I'm a fresh graduate of Information Systems.
 
 If you want to know more about me, you can check my [LinkedIn](https://www.linkedin.com/in/aniqohhanahaura/) 
 
