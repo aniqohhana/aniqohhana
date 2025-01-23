@@ -1,10 +1,10 @@
 ### Hi There 👋
 
-I'm Aniqoh Hana Haura, you can call me Hana :)
+I'm Aniqoh Hana Haura. You can call me Hana.
 
-I'm a fresh graduate of Information Systems.
+I'm a fresh graduate of the Information Systems program.
 
-If you want to know more about me, you can check my [LinkedIn](https://www.linkedin.com/in/aniqohhanahaura/) 
+If you want to know more about me, you can check my [LinkedIn profile](https://www.linkedin.com/in/aniqohhanahaura/). 
 
 <p align="left">
 <a href="https://github.com/aniqohhana">
